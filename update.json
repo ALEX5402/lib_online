@@ -1,0 +1,10 @@
+{
+    "version": "4.0.2",
+    "releaseDate": "2022-03-09",
+    "changes": [
+        "Added new feature X",
+        "Improved performance",
+        "Fixed bugs"
+    ],
+    "downloadUrl": "https://example.com/app.apk"
+}
