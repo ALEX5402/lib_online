@@ -1,10 +1,10 @@
 {
     "version": "6.0.2",
     "releaseDate": "2022-03-09",
-    "changes": [
-        "Added new feature X\n",
-        "Improved performance\n",
-        "Fixed bugs\n"
-    ],
+    "changes":
+        "Added new feature X",
+        "Improved performance",
+        "Fixed bugs"
+    ,
     "downloadUrl": "https://example.com/app.apk"
 }
