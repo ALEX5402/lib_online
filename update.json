@@ -1,5 +1,5 @@
 {
-    "version": "7.0.0",
+    "version": "7.1.1",
     "releaseDate": "2023-03-14",
     "changes":[
         "Added Metereal ui",
@@ -7,6 +7,7 @@
         "Fixed bugs The Inject Failed",
         "add auto open game option After click open esp",
         "add auto New progressdialog",
+        "Fixed the update api",
         "fixed the old dpi ishu"
     ],
     "downloadUrl": "https://github.com/ALEX5402/lib_online/releases/download/openesp/app-release.apk"
