@@ -1,7 +1,7 @@
 {
     "serverstatus":"close",
     "servermeassage":"We Are working on updates",
-    "opentime":"Server will open after 16th may /n we are fixing some bugs",
+    "opentime":"Server will open after 16th may we are fixing some bugs like injection is not working on some devices",
     "version": "1.0",
     "releaseDate": "2023-03-14",
     "changes":[
