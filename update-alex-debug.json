@@ -1,0 +1,17 @@
+{
+    "serverstatus":"open",
+    "servermeassage":"We Are working on updates",
+    "opentime":"Server will open after 16th may we are fixing some bugs like injection is not working on some devices",
+    "version": "1.0",
+    "releaseDate": "2023-03-14",
+    "changes":[
+        "Added Metereal ui",
+        "Improved Progressbar",
+        "Fixed bugs The Inject Failed",
+        "add auto open game option After click open esp",
+        "add auto New progressdialog",
+        "fixed the old dpi ishu"
+    ],
+    "downloadUrl": "https://github.com/ALEX5402/lib_online/releases/download/openesp/app-release.apk", 
+    "libs":"https://github.com/ALEX5402/lib_online/releases/download/openesp/alex.zip"
+}
