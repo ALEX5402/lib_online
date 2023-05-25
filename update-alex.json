@@ -1,5 +1,5 @@
 {
-    "serverstatus":"close",
+    "serverstatus":"open",
     "servermeassage":"New update will come 😋 sooon",
     "opentime":"Just wait few more times 🙂",
     "version": "2.2",
@@ -16,6 +16,6 @@
         "fixed more un wanted bugs like downloaded files are deleted after activity restarts😙"
        
     ],
-    "downloadUrl": "https://github.com/ALEX5402/lib_online/releases/download/openesp/app-release-2.2.apk", 
+    "downloadUrl": "https://pastebin.com/raw/Xx3vKKc5", 
     "libs":"https://github.com/ALEX5402/lib_online/releases/download/openesp/imgui.zip"
 }
