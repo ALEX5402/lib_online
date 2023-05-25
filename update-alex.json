@@ -1,10 +1,11 @@
 {
-    "serverstatus":"close",
-    "servermeassage":"wait",
+    "serverstatus":"open",
+    "servermeassage":"Server is on off",
     "opentime":"Just wait few more times 🙂",
-    "version": "2.3",
+    "version": "2.4",
     "releaseDate": "2023-05-25",
     "changes":[
+        "Fixed Game Stuck 64 bit",
         "Added  32 bit Support🤯",
         "Added Some new Features🤩",
         "Fixed Day Mode Status Bar🤩",
@@ -16,6 +17,6 @@
         "fixed more un wanted bugs like downloaded files are deleted after activity restarts😙"
        
     ],
-    "downloadUrl": "https://github.com/ALEX5402/Reinject/releases/download/beta-2.3/app-release-2.3.apk", 
+    "downloadUrl": "https://github.com/ALEX5402/Reinject/releases/download/beta-2.4/app-release-2.4.apk", 
     "libs":"https://github.com/ALEX5402/lib_online/releases/download/openesp/imgui.zip"
 }
