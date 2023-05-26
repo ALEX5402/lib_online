@@ -2,9 +2,14 @@
     "serverstatus":"open",
     "servermeassage":"Wait We Are Working On a new Update",
     "opentime":"Just wait few more times 🙂",
-    "version": "2.4",
-    "releaseDate": "2023-05-25",
+    "version": "2.5",
+    "releaseDate": "2023-05-26",
     "changes":[
+        "Final Stable Build",
+        "Fixed Download Zip Crash Oppo Devices",
+        "Xposed mode is stable now",
+        "More Internal Improvements',
+        "Fixed old Bugs",
         "First Stable Release",
         "Fixed Game Stuck 64 bit",
         "Added  32 bit Support🤯",
@@ -18,6 +23,6 @@
         "fixed more un wanted bugs like downloaded files are deleted after activity restarts😙"
        
     ],
-    "downloadUrl": "https://github.com/ALEX5402/Reinject/releases/download/beta-2.4/app-release-2.4.apk", 
+    "downloadUrl": "https://github.com/ALEX5402/Reinject/releases/download/Stable-2.5/app-release-2.5-Stable.apk", 
     "libs":"https://github.com/ALEX5402/lib_online/releases/download/openesp/imgui.zip"
 }
