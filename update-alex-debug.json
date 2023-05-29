@@ -2,7 +2,7 @@
     "serverstatus":"open",
     "servermeassage":"We Are working on updates",
     "opentime":"Server will open after 16th may we are fixing some bugs like injection is not working on some devices",
-    "version": "2.3",
+    "version": "2.6",
     "releaseDate": "2023-03-14",
     "changes":[
         "Added Metereal ui",
