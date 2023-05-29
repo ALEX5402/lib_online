@@ -24,5 +24,8 @@
        
     ],
     "downloadUrl": "https://github.com/ALEX5402/Reinject/releases/download/Stable-2.5/app-release-2.5-Stable.apk", 
-    "libs":"https://github.com/ALEX5402/lib_online/releases/download/openesp/imgui.zip"
+    "libs":"https://github.com/ALEX5402/lib_online/releases/download/openesp/imgui.zip",
+    "notice_title":"Game Version Update",
+    "notice_body":"BGMI 2.5.0 and All PUBG 2.6.0 ",
+    "noticemode":"false"
 }
