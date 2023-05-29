@@ -15,6 +15,6 @@
     "downloadUrl": "https://github.com/ALEX5402/lib_online/releases/download/openesp/app-release.apk", 
     "libs":"https://github.com/ALEX5402/lib_online/releases/download/openesp/imgui.zip",
     "notice_title":"hahahah just a test",
-    "notice_body": "hahahah just a test",
-    "nbool":"true"
+    "notice_body":"hahahah just a test",
+    "n_bool":"true"
 }
