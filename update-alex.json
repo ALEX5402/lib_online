@@ -1,5 +1,5 @@
 {
-    "serverstatus":"open",
+    "serverstatus":"close",
     "servermeassage":"Wait We Are Working On a new Update",
     "opentime":"Just wait few more times 🙂",
     "version": "2.6",
@@ -12,5 +12,5 @@
     "libs":"https://github.com/ALEX5402/lib_online/releases/download/openesp/imgui.zip",
     "notice_title":"Game Version Update",
     "notice_body":"BGMI 2.5.0 (bullet track may crash it will fix soon 😭) and All PUBG 2.6.0 (sometimes esp glickes 😵)",
-    "noticemode":"true"
+    "noticemode":"false"
 }
