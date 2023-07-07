@@ -1,7 +1,7 @@
 {
     "serverstatus":"false",
     "noticemode":"false",
-    "dataclearmode":"false",
+    "dataclearmode":"true",
     "servermeassage":"Wait We Are Working On a new Update",
     "opentime":"Just wait few more times 🙂",
     "libs":"https://github.com/ALEX5402/lib_online/releases/download/anku-mod/alex.zip",

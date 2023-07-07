@@ -1,10 +1,10 @@
 {
     "serverstatus":"true",
-    "noticemode":"false",
+    "noticemode":"true",
     "dataclearmode":"false",
     "servermeassage":"Wait We Are Working On a new Update",
     "opentime":"Just wait few more times 🙂",
     "libs":"https://github.com/ALEX5402/lib_online/releases/download/anku-mod/libexe.zip",
-    "notice_title":"Game Version Update ",
-    "notice_body":" BGMI 2.5.0"
+    "notice_title":"Status Is Safe ",
+    "notice_body":" on Livik"
 }
