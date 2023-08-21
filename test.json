@@ -1,0 +1,18 @@
+{
+    "rebranders": {
+        "alex_example_rebrander": {
+          "serverstatus":"true",
+          "noticemode":"true",
+          "logcleaner":"true",
+          "notice_title":"Example Toast ",
+          "libs":"https://github.com/ALEX5402/lib_online/releases/download/anku-mod/libexe.zip"
+        },
+        "dhuvad_heet": {
+            "serverstatus":"true",
+            "noticemode":"true",
+            "logcleaner":"true",
+            "notice_title":"Example Toast ",
+            "libs":"https://github.com/ALEX5402/lib_online/releases/download/anku-mod/libexe.zip"
+          }
+    }
+}
