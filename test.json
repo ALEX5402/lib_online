@@ -1,17 +1,26 @@
 {
         "alex_example_rebrander": {
-          "serverstatus":"true",
-          "noticemode":"true",
-          "logcleaner":"true",
-          "notice_title":"Example Toast rebrander 1s ",
-          "lib_url":"https://github.com/ALEX5402/lib_online/releases/download/anku-mod/libexe.zip"
+          "dw234":"true",
+          "awfd3wr":"true",
+          "awd435":"true",
+          "sefsgtr":"true",
+          "dwaesrt43":"Example Toast rebrander 1s ",
+          "adfret43":"https://github.com/ALEX5402/lib_online/releases/download/anku-mod/libexe.zip"
         },
-        "dhuvad_heet": {
-            "serverstatus":"true",
-            "noticemode":"true",
-            "logcleaner":"true",
-            "notice_title":"Example Toast rebrander 2 ",
-            "lib_url":"https://github.com/ALEX5402/lib_online/releases/download/anku-mod/libexe.zip"
-          }
-    
+        "rebrander2": {
+          "dw234":"true",
+          "awfd3wr":"true",
+          "awd435":"true",
+          "sefsgtr":"true",
+          "dwaesrt43":"Example Toast rebrander 1s ",
+          "adfret43":"https://github.com/ALEX5402/lib_online/releases/download/anku-mod/libexe.zip"
+        },
+        "rebrander3": {
+          "dw234":"true",
+          "awfd3wr":"true",
+          "awd435":"true",
+          "sefsgtr":"true",
+          "dwaesrt43":"Example Toast rebrander 1s ",
+          "adfret43":"https://github.com/ALEX5402/lib_online/releases/download/anku-mod/libexe.zip"
+        }
 }
