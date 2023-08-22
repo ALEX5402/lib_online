@@ -4,14 +4,14 @@
           "serverstatus":"true",
           "noticemode":"true",
           "logcleaner":"true",
-          "notice_title":"Example Toast ",
+          "notice_title":"Example Toast rebrander 1s ",
           "lib_url":"https://github.com/ALEX5402/lib_online/releases/download/anku-mod/libexe.zip"
         },
         "dhuvad_heet": {
             "serverstatus":"true",
             "noticemode":"true",
             "logcleaner":"true",
-            "notice_title":"Example Toast ",
+            "notice_title":"Example Toast rebrander 2 ",
             "lib_url":"https://github.com/ALEX5402/lib_online/releases/download/anku-mod/libexe.zip"
           }
     }
