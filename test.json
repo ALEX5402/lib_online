@@ -1,5 +1,4 @@
 {
-    "rebranders": {
         "alex_example_rebrander": {
           "serverstatus":"true",
           "noticemode":"true",
@@ -14,5 +13,5 @@
             "notice_title":"Example Toast rebrander 2 ",
             "lib_url":"https://github.com/ALEX5402/lib_online/releases/download/anku-mod/libexe.zip"
           }
-    }
+    
 }
